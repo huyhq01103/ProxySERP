@@ -1,0 +1,26 @@
+{
+  "name": "yzi-proxy",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "http-mitm-proxy": "^0.9.0",
+    "inquirer": "^8.2.0",
+    "yargs": "^17.3.0"
+  },
+  "description": "`node prod.js` to run proxy for production data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneabel/yzi-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaneabel/yzi-proxy/issues"
+  },
+  "homepage": "https://github.com/kaneabel/yzi-proxy#readme"
+}
